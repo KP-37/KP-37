@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KP-37
-- 👀 I’m interested in DA
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on open projects
+- 👋 Hi, I’m Keerthi Prakash
+- 👀 I’m interested in Data Analytics and Business Intelligence
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate with people with similar interests
 - 📫 Reach me @keerthiravikrishnan@gmail.com
 
